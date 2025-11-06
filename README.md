@@ -6,3 +6,7 @@
 ---
 
 ![Achievement Badge](https://github-profile-trophy.vercel.app/?username=Axshul&theme=darkhub)
+
+---
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexdev&theme=tokyonight" />
