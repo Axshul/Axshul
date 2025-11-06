@@ -11,5 +11,5 @@
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Axshul&theme=tokyonight" /> -->
 
-[![Gist Badge](https://img.shields.io/badge/🔗-Check%20out%20my%20Gist-blue)](https://gist.github.com/alexdev)
+[![Gist Badge](https://img.shields.io/badge/🔗-Check%20out%20my%20Gist-blue)](https://gist.github.com/Axshul)
 
