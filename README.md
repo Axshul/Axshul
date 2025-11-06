@@ -13,3 +13,4 @@
 
 [![Gist Badge](https://img.shields.io/badge/🔗-Check%20out%20my%20Gist-blue)](https://gist.github.com/Axshul)
 
+<script src="https://gist.github.com/Axshul/84988d7c3235d40ccf6a7b1cf1e48643.js"></script>
