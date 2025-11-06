@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?size=50&duration=5000&lines=Hey+there!+I'm+Anshul"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&lines=Hey+there!+I'm+Anshul"/>
 
 ---
 
