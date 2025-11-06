@@ -1,3 +1,7 @@
+<img src="https://readme-typing-svg.herokuapp.com?size=50&duration=5000&lines=Hey+there!+I'm+Anshul"/>
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Axshul&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axshul&theme=tokyonight" height="160"/>
@@ -12,5 +16,3 @@
 </div>
 
 ---
-
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=5000&lines=Hey+there!+I'm+Anshul" />
