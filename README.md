@@ -1,5 +1,4 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&lines=Hey+there!+I'm+Anshul"/>
-![Last Commit](https://img.shields.io/github/last-commit/Axshul/Axshul/)
 
 ---
 
