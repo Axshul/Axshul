@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&lines=Hey+there!+I'm+Anshul"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=15&duration=3000&lines=Hey+there!+I'm+Anshul...+A+Passionate+AI+Engineer+&+Programmer.."/>
 
 ---
 
