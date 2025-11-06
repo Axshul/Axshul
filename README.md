@@ -12,3 +12,5 @@
 </div>
 
 ---
+
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=5000&lines=Hey+there!+I'm+Anshul" />
