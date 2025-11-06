@@ -4,7 +4,7 @@
 </p>
 
 ---
-
+<center>
 ![Achievement Badge](https://github-profile-trophy.vercel.app/?username=Axshul&theme=darkhub)
-
+</center>
 ---
