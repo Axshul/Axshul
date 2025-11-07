@@ -12,6 +12,9 @@
   
 ![Achievement Badge](https://github-profile-trophy.vercel.app/?username=Axshul&theme=darkhub)
 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Axshul.Axshul"  />
+
+
 </div>
 
 ---
