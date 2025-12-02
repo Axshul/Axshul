@@ -6,7 +6,27 @@
 
 ###
 
-<p align="left">My name is Anshul Namdev and i am based in Shivpuri Madhya Pradesh, my interest in programming languages came across in my 6th grade.<br><br>I have developed proficiency in various programming languages, like java, javascript , python , bash & framewords like MERN and springboot.<br><br>I have built multiple projects using many programming the most renowned ones are TechFeed & LLMsIDE <br><br>Currently i am working as a technical architect in FRVR and an AI automation expert, in the mean time i develop my own projects which are..</p>
+<p align="left">
+My name is Anshul Namdev and I am based in Shivpuri, Madhya Pradesh. My interest in 
+<a href="https://en.wikipedia.org/wiki/Programming_language">programming languages</a> started back in my 6th grade.<br><br>
+
+I have developed proficiency in various programming languages such as 
+<a href="https://www.java.com/">Java</a>, 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>, 
+<a href="https://www.python.org/">Python</a>, 
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">Bash</a>, 
+and frameworks like 
+<a href="https://www.mongodb.com/mern-stack">MERN</a> and 
+<a href="https://spring.io/projects/spring-boot">Spring Boot</a>.<br><br>
+
+I have built multiple projects using many technologies. 
+The most renowned ones include 
+<a href="https://tech-feed-ochre.vercel.app/">TechFeed</a> & 
+<a href="#">LLMsIDE</a>.<br><br>
+
+Currently, I am working as a Technical Architect at FRVR and an AI Automation Expert.  
+In the meantime, I also develop my own innovative projects which are…
+</p>
 
 ###
 
