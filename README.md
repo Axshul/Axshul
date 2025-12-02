@@ -43,7 +43,6 @@ As a **Technical Architect**, I specialize in designing software systems that ar
 ## 📈 GitHub Stats
 <div align="center">
   
-![Stats](https://github-readme-stats.vercel.app/api?username=axshul&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axshul&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
