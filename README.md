@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-My name is Anshul Namdev and I am based in Shivpuri, Madhya Pradesh. My interest in 
+My name is Anshul Namdev and I am based in Shivpuri, Madhya Pradesh, currently living in Bhopal. My interest in 
 <a href="https://en.wikipedia.org/wiki/Programming_language">programming languages</a> started back in my 6th grade.<br><br>
 
 I have developed proficiency in various programming languages such as 
