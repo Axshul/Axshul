@@ -44,10 +44,7 @@ In the meantime, I also develop my own innovative projects which are…
 ###
 
 <br clear="both">
-
-<picture>
-  <img alt="pacman contribution graph" src="snake.svg">
-</picture>
+<img src="https://pacman.abozanona.me?username=Axshul" />
 
 ###
 
