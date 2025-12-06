@@ -1,5 +1,5 @@
 <h1 align="left">Indexing...</h1>
-![myPhoto](https://github.com/user-attachments/assets/8ea0d273-a352-45eb-9dc0-d01e3b705181)
+<img src="Black and White Simple seo LinkedIn Background Photo.png"></img>
 
 ###
 
