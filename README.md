@@ -16,6 +16,7 @@ I have developed proficiency in various programming languages such as
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>, 
 <a href="https://www.python.org/">Python</a>, 
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">Bash</a>, 
+<a>Ruby</a>
 and frameworks like 
 <a href="https://www.mongodb.com/mern-stack">MERN</a> and 
 <a href="https://spring.io/projects/spring-boot">Spring Boot</a>.<br><br>
