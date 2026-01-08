@@ -1,8 +1,53 @@
-<h1 align="left">Indexing...</h1>
-<img src="Black and White Simple seo LinkedIn Background Photo.png"></img>
+<!-- ========== HEADER ========= -->
 
-###
+<table width="100%" cellpadding="6">
+<tr>
 
+<td valign="middle" width="900px">
+
+<h1>indexing..</h1>
+<p>
+<b>Technical Architect ~ AI Automation Expert ~ Developer</b>
+</p>
+
+</td>
+
+<td align="center" valign="middle" width="400px">
+
+<p>
+<a href="https://axshul.site">About</a> &nbsp;|&nbsp;
+<a href="https://github.com/Axshul?tab=repositories">Projects</a> &nbsp;|&nbsp;
+<a href="https://axshul.github.io/Portfolio">Tech</a> &nbsp;|&nbsp;
+<a href="https://www.linkedin.com/in/anshul-namdev-b149b5329/">Connect</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<hr/>
+
+
+<!-- ========== HERO ========= -->
+
+<table width="100%" cellpadding="12">
+<tr>
+
+<td width="100%" align="center" valign="middle">
+
+<img src="Black and White Simple seo LinkedIn Background Photo.png"
+     width="1000px"
+     alt="Profile Banner"/>
+
+</td>
+</tr>
+</table>
+
+<table width="100%" cellpadding="12">
+<tr>
+
+<td width="100%" align="left" valign="left">
 <h2 align="left">Biography</h2>
 
 ###
@@ -30,100 +75,202 @@ Currently, I am working as a Technical Architect at FRVR and an AI Automation Ex
 In the meantime, I also develop my own innovative projects which are…
 </p>
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-</div>
+</td>
+</tr>
+</table>
 
-###
+<hr/>
 
-<br clear="both">
-<img src="https://pacman.abozanona.me?username=Axshul" />
+<!-- ========== PROJECTS ========= -->
 
-###
+<a id="projects"></a>
 
-<p align="left">My TechStack</p>
+<table width="100%" cellpadding="12">
+<tr>
+<td>
 
-###
+<h2>Featured Projects</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatling/gatling-original.svg" height="40" alt="gatling logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+<!-- SCROLL CONTAINER -->
+<table width="130%" cellpadding="12">
+<tr>
 
-###
+<!-- Card 1 -->
+<td width="380px" valign="top">
+
+<table width="100%" border="1" cellpadding="12">
+<tr>
+<td>
+
+<h3>TechFeed</h3>
+
+<p>
+A modern tech-news aggregation platform.
+</p>
+
+<p>
+<a href="https://tech-feed-ochre.vercel.app/">
+Visit Project
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<!-- Card 2 -->
+<td width="380px" valign="middle">
+
+<table width="100%" border="1" cellpadding="12">
+<tr>
+<td>
+
+<h3>CodeProb</h3>
+
+<p>
+CodeProb Is A Developer's Community, Share & Learn!
+</p>
+
+<a href="https://codeprob.github.io/CodeProb/">
+Visit Project
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<!-- Optional Card 3 (future-proof) -->
+<td width="380px" valign="top">
+
+<table width="100%" border="1" cellpadding="12">
+<tr>
+<td>
+
+<h3>More Coming</h3>
+
+<p>
+Additional projects and experiments will be added here
+as they reach production readiness.
+</p>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
+<!-- ========== TECH STACK + ACTIVITY ========= -->
+
+<a id="tech"></a>
+
+<h2>Tech Stack & Activity</h2>
+
+<table width="70%" cellpadding="10">
+<tr>
+
+<!-- LEFT: TECH STACK -->
+<td width="30%" valign="top">
+
+<table width="60%" border="1" cellpadding="10">
+<tr>
+<th align="left">Category</th>
+<th align="left">Technologies</th>
+</tr>
+
+<tr>
+<td><b>Programming Languages</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="26"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Frameworks & Libraries</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="26"/>
+</td>
+</tr>
+
+<tr>
+<td><b>AI / Automation</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="26"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="26"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Tools & Platforms</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="26"/>
+</td>
+</tr>
+
+</table>
+
+</td>
+
+<!-- RIGHT: ACTIVITY GRAPH -->
+<td width="100%" valign="middle" align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Axshul&theme=react-dark"
+  width="1200px"
+  alt="GitHub Activity Graph"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<hr/>
+
+
