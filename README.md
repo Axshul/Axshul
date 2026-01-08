@@ -185,7 +185,7 @@ as they reach production readiness.
 <!-- LEFT: TECH STACK -->
 <td width="30%" valign="top">
 
-<table width="60%" border="1" cellpadding="10">
+<table width="60%" border="1" cellpadding="10" height="200px">
 <tr>
 <th align="left">Category</th>
 <th align="left">Technologies</th>
