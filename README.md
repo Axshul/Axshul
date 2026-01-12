@@ -36,7 +36,7 @@
 
 <td width="100%" align="center" valign="middle">
 
-<img src="Black and White Simple seo LinkedIn Background Photo.png"
+<img src="Banner-Linkedin.png"
      width="1000px"
      alt="Profile Banner"/>
 
