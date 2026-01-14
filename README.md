@@ -144,6 +144,30 @@ Visit Project
 
 </td>
 
+<!-- Card 3 -->
+<td width="380px" valign="middle">
+
+<table width="100%" border="1" cellpadding="12">
+<tr>
+<td>
+
+<h3>LLM-ARENA</h3>
+
+<p>
+LLM-ARENA is a Counsil of LLMs Concept in Java!
+</p>
+
+<a href="https://github.com/Axshul/LLM-JAVARENA">
+Visit Project
+</a>
+
+</td>
+</tr>
+</table>
+
+</td>
+
+
 <!-- Optional Card 3 (future-proof) -->
 <td width="380px" valign="top">
 
