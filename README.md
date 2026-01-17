@@ -71,7 +71,7 @@ The most renowned ones include
 <a href="https://tech-feed-ochre.vercel.app/">TechFeed</a> & 
 <a href="#">LLMsIDE</a>.<br><br>
 
-Currently, I am working as a Technical Architect at FRVR and an AI Automation Expert.  
+Currently, I am working as a Principle Software Engineer at BlueWizard and an AI Automation Expert.  
 In the meantime, I also develop my own innovative projects which are…
 </p>
 
